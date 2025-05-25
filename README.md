@@ -38,6 +38,7 @@ Suggestions:
 1.	Use other supervised models (or deep neural networks) for further investigation of chemical systems. 
 2.	Expand the database to more compounds with different elements and functional groups for better generalization and broader scope of model fitting.
 3.	Use other metrics for models’ evaluations.
+   
 Related Work:
 •	https://www.nature.com/articles/sdata201422 (original paper with the dataset)
 •	https://www-sciencedirect-com.amherst.idm.oclc.org/science/article/pii/S2666352X22000218
